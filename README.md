@@ -85,13 +85,15 @@ Soy **Juan José**, estudiante de **Desarrollo de Aplicaciones Web (DAW)** y **d
 
 ### 🎮 CINDER SIGNAL: NIGHT DISPATCH
 
-Videojuego indie de PC de **supervivencia táctica**, centrado en la linterna, la exploración y la toma de decisiones.
+Videojuego indie para PC de **supervivencia táctica**, centrado en la linterna, la exploración y la toma de decisiones.
 
-<img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Tecnologías" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="JavaScript, HTML, CSS y Node.js" />
+</p>
 
 **Electron · JavaScript · HTML · CSS**
 
-[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanjo3-7/cinder-signal-night-dispatch)
+[![Ver repositorio](https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanjo3-7/cinder-signal-night-dispatch)
 
 </td>
     <td width="50%" valign="top">
@@ -100,26 +102,41 @@ Videojuego indie de PC de **supervivencia táctica**, centrado en la linterna, l
 
 Ejercicio de **programación orientada a objetos** que practica clases abstractas, herencia, composición y polimorfismo.
 
-<img src="https://skillicons.dev/icons?i=java,maven" alt="Tecnologías" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,maven" alt="Java y Maven" />
+</p>
 
 **Java · Maven · POO**
 
-[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanjo3-7/bleach-shinigami-poo)
+[![Ver repositorio](https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanjo3-7/bleach-shinigami-poo)
 
 </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
 
-### 📚 Skillverse &nbsp; ![En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-F59E0B?style=flat-square)
+### 🎓 Skillverse — Plataforma de aprendizaje gamificado
 
-Plataforma web de **aprendizaje gamificado**. Proyecto personal en construcción; añadiré el enlace al repositorio cuando esté listo para compartir.
+<p align="center">
+  <img src="./skillverse-preview.png" alt="Presentación de Skillverse y su interfaz" width="65%" />
+</p>
+
+Plataforma web educativa que combina el aprendizaje con mecánicas inspiradas en los videojuegos, para convertir el estudio en una experiencia más interactiva.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" alt="HTML, CSS, JavaScript, PHP y MySQL" />
+</p>
+
+**HTML · CSS · JavaScript · PHP · MySQL**
+
+**Estado:** En desarrollo.
 
 </td>
   </tr>
 </table>
+## 📊 Actividad en GitHub
 
----
+<div align="center">
 
 ## 📊 Actividad en GitHub
 
