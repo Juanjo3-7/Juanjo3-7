@@ -1,93 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Juan%20Jos%C3%A9%20Vegara%20D%C3%ADaz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20Web%20Junior%20%C2%B7%20Backend%20%C2%B7%20DAW&descAlignY=58&descSize=16" width="100%" alt="Cabecera" />
-
-<a href="https://github.com/Juanjo3-7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Creando+aplicaciones+web+%C3%BAtiles;Aprendiendo+backend+y+bases+de+datos;Convirtiendo+ideas+en+proyectos+reales" alt="Texto animado" />
-</a>
+<img src="./banner-github-juanjo.svg" alt="Juan José Vegara Díaz — Desarrollador Full Stack Junior" width="100%" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Juanjo3--7-181717?style=for-the-badge&logo=github)](https://github.com/Juanjo3-7)
-[![DAW](https://img.shields.io/badge/Formaci%C3%B3n-DAW-2563eb?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/Juanjo3-7)
-[![Estado](https://img.shields.io/badge/Estado-Abierto%20a%20oportunidades-22c55e?style=for-the-badge)](https://github.com/Juanjo3-7)
+<a href="https://github.com/Juanjo3-7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+Junior;Java+%C2%B7+Spring+Boot+%C2%B7+PHP+%C2%B7+Laravel;Estudiante+de+DAW+%F0%9F%8E%93;Aprender%2C+construir+y+mejorar+proyecto+a+proyecto" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+![Perfil](https://img.shields.io/badge/Perfil-Full%20Stack%20Junior-3B82F6?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Formación](https://img.shields.io/badge/Formaci%C3%B3n-DAW-10B981?style=for-the-badge&logo=educative&logoColor=white)
+![Enfoque](https://img.shields.io/badge/Enfoque-Backend-8B5CF6?style=for-the-badge&logo=spring&logoColor=white)
+![Estado](https://img.shields.io/badge/Estado-Abierto%20a%20oportunidades-F59E0B?style=for-the-badge)
+
+<br/>
+
+![Seguidores](https://img.shields.io/github/followers/Juanjo3-7?label=Seguidores&style=social)
+![Visitas](https://komarev.com/ghpvc/?username=Juanjo3-7&label=Visitas&color=3B82F6&style=flat)
 
 </div>
 
 ---
 
-## 👋 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y me apasiona crear aplicaciones útiles, mejorar mis habilidades de programación y sacar adelante proyectos propios.
+Soy **Juan José**, estudiante de **Desarrollo de Aplicaciones Web (DAW)** y **desarrollador Full Stack Junior** en formación. Me gusta construir aplicaciones útiles, cuidar las buenas prácticas y mejorar a base de proyectos propios.
 
-Me centro en el **desarrollo web**, la **programación backend** y el **aprendizaje continuo a través de proyectos prácticos**.
+- 🔭 Centrado en **desarrollo web**, **programación backend** y **bases de datos**
+- 🌱 Profundizando en **Spring Boot**, **Laravel** y **React**
+- 🐳 Aprendiendo a desplegar y empaquetar aplicaciones con **Docker**
+- 🤝 Vengo de la **hostelería**: organización, responsabilidad y trabajo en equipo bajo presión
+- 🎯 Busco proyectos reales donde aprender, colaborar y aportar valor
 
-- 🎓 Formándome en desarrollo de aplicaciones web
-- ⚙️ Interesado en backend y bases de datos
-- 🚀 Construyendo proyectos personales
-- 🤝 Experiencia previa en hostelería: organización, responsabilidad y trabajo en equipo
+---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack tecnológico
 
-<div align="center">
+### Backend
 
-<img src="https://skillicons.dev/icons?i=java,js,php,mysql,html,css,nodejs,git,maven,vscode,github&perline=6" alt="Tecnologías" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" alt="Backend" />
+</p>
 
-</div>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" />
+</p>
+
+### Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="Bases de datos" />
+</p>
+
+### Herramientas y DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,vscode" alt="Herramientas" />
+</p>
+
+<details>
+<summary><b>📋 Ver detalle por área</b></summary>
+<br/>
 
 | Área | Tecnologías |
 | --- | --- |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Java, PHP, Node.js |
-| **Bases de datos** | MySQL |
-| **Herramientas** | Git, GitHub, Maven, VS Code |
+| **Backend** | Java, Spring Boot, PHP, Laravel, Node.js |
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Bases de datos** | SQL, MySQL, MariaDB |
+| **Herramientas** | Git, GitHub, Docker, Maven, Visual Studio Code |
 
-## 📂 Proyectos destacados
+</details>
+
+---
+
+## 🚀 Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Skillverse</h3>
-      <p>Plataforma web de aprendizaje gamificado que convierte estudiar en una experiencia más interactiva y motivadora.</p>
-      <p><b>Enfoque:</b> Web · Backend · Gamificación</p>
-      <!-- Cuando tengas el repo: <a href="https://github.com/Juanjo3-7/NOMBRE-DEL-REPO">Ver proyecto →</a> -->
-    </td>
+
+### 🎮 CINDER SIGNAL: NIGHT DISPATCH
+
+Videojuego indie de PC de **supervivencia táctica**, centrado en la linterna, la exploración y la toma de decisiones.
+
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs" alt="Tecnologías" />
+
+**Electron · JavaScript · HTML · CSS**
+
+[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanjo3-7/cinder-signal-night-dispatch)
+
+</td>
     <td width="50%" valign="top">
-      <h3>🔦 CINDER SIGNAL: NIGHT DISPATCH</h3>
-      <p>Videojuego indie para PC centrado en la supervivencia táctica, el uso de la linterna y la toma de decisiones bajo presión.</p>
-      <p><b>Enfoque:</b> Videojuego · Diseño de mecánicas</p>
-      <!-- Cuando tengas el repo: <a href="https://github.com/Juanjo3-7/NOMBRE-DEL-REPO">Ver proyecto →</a> -->
-    </td>
+
+### ⚔️ Bleach Shinigami — POO en Java
+
+Ejercicio de **programación orientada a objetos** que practica clases abstractas, herencia, composición y polimorfismo.
+
+<img src="https://skillicons.dev/icons?i=java,maven" alt="Tecnologías" />
+
+**Java · Maven · POO**
+
+[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanjo3-7/bleach-shinigami-poo)
+
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+### 📚 Skillverse &nbsp; ![En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-F59E0B?style=flat-square)
+
+Plataforma web de **aprendizaje gamificado**. Proyecto personal en construcción; añadiré el enlace al repositorio cuando esté listo para compartir.
+
+</td>
   </tr>
 </table>
 
-## 📊 Estadísticas de GitHub
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Juanjo3-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanjo3-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Juanjo3-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&locale=es" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanjo3-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&locale=es" alt="Lenguajes más usados" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Juanjo3-7&theme=tokyonight&hide_border=true&background=0D1117&locale=es" alt="Racha de contribuciones" />
 
 </div>
 
+---
+
 ## 🎯 Objetivo profesional
 
-Seguir creciendo como desarrollador web junior, aplicar mis conocimientos en proyectos reales y colaborar en equipos donde pueda **aprender y aportar valor**.
+Seguir creciendo como **desarrollador Full Stack Junior**, consolidar mis conocimientos de backend y bases de datos, y sumarme a un equipo donde aprender, colaborar y aportar valor desde el primer día.
+
+---
 
 ## 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-Juanjo3--7-181717?style=flat-square&logo=github)](https://github.com/Juanjo3-7)
-<!-- Añade aquí tus otros contactos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tu%20perfil-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-tu%20correo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
--->
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Juanjo3--7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanjo3-7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Construyendo proyectos, aprendiendo tecnología y mejorando cada día.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Pie" />
+*Aprender, construir y mejorar proyecto a proyecto.*
 
 </div>
